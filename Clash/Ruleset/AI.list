@@ -20,6 +20,7 @@ DOMAIN, openaicomproductionae4b.blob.core.windows.net
 DOMAIN, production-openaicom-storage.azureedge.net
 DOMAIN-SUFFIX, chat.com
 DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-SUFFIX, datadog.pool.ntp.org
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaiusercontent.com
 DOMAIN-SUFFIX, openai.com
