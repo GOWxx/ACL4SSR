@@ -21,6 +21,9 @@ DOMAIN, production-openaicom-storage.azureedge.net
 DOMAIN-SUFFIX, chat.com
 DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, datadog.pool.ntp.org
+DOMAIN-SUFFIX, api.segment.io
+DOMAIN-SUFFIX, ingest.sentry.io
+DOMAIN-SUFFIX, api.revenuecat.com
 DOMAIN-SUFFIX, oaistatic.com
 DOMAIN-SUFFIX, oaiusercontent.com
 DOMAIN-SUFFIX, openai.com
