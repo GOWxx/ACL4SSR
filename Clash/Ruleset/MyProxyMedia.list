@@ -1,5 +1,7 @@
 # 内容：iyf.tv
 # 数量：2条
 # My self-hosted media
+ND,((DOMAIN-SUFFIX,yfsp.tv),(NETWORK,UDP),(DST-PORT,443)),REJECT
+AND,((DOMAIN-SUFFIX,iyf.tv),(NETWORK,UDP),(DST-PORT,443)),REJECT
 DOMAIN-SUFFIX,iyf.tv
 DOMAIN-SUFFIX,yfsp.tv
