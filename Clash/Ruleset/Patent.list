@@ -1,0 +1,4 @@
+# 专利检索/浏览专用分流（GOWxx custom）
+# 独立分组 📜 专利站点，可单独切换节点，避免 Google Patents 被单节点封禁
+DOMAIN-SUFFIX,patents.google.com
+DOMAIN-SUFFIX,patentimages.storage.googleapis.com
