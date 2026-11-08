@@ -1,0 +1,6 @@
+# NanoGPT ruleset — split out of 😎 AI so it can use its own region group.
+# api.nano-gpt.com resolves to Fly.io anycast; measured 2026-11-08 from the
+# agent VPS: 🇸🇬 狮城节点 0.66s vs 🇯🇵 日本节点 0.90s vs DIRECT 0.65s (wider jitter).
+# Keep as plain DOMAIN/DOMAIN-SUFFIX lines — SubConverter type=3 injects stray
+# spaces when given Loon-style input.
+DOMAIN-SUFFIX,nano-gpt.com
